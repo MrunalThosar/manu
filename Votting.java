@@ -10,6 +10,8 @@ System.out.println("you are illegable for voting");
 else
 {
 System.out.println("you are not illegable for voting");
+ System.out.println("you are under age");
+}
 }
 }
 }
